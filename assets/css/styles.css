@@ -1,0 +1,156 @@
+body {
+
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+.btn-primary{
+    position: fixed;
+  display: inline-block;
+    padding: 50px,;
+    }
+#colorNombre {
+    font-style: italic;
+    color: #be8419;
+    margin-left: 42%;
+}
+
+.tex {
+    text-align: right;
+
+
+
+    width: 100%;
+}
+
+
+
+
+.navbar.navbar-expand-lg.bg-secondary {
+    background-color: #282e3a !important;
+
+}
+
+.list-group {
+    --bs-list-group-bg: transparent !important;
+    --bs-list-group-border-color: transparent !important;
+    --bs-list-group-color: #edeff4 !important;
+}
+
+i.fa-brands.fa-facebook:hover {
+    color: #d8dde1;
+    width: 100%;
+}
+
+i.fa-brands.fa-linkedin:hover {
+    color: #bad69d;
+}
+
+i.fa-brands.fa-instagram:hover {
+    color: #c64b15;
+}
+
+i.fa-solid.fa-user:hover {
+    color: #ecf4ed;
+}
+
+#font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #121202;
+    text-align: center;
+}
+
+#font1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #121202;
+    text-align: right;
+}
+
+
+
+
+
+section.edu {
+
+
+
+    background-size: 300%;
+    background-repeat: no-repeat;
+
+}
+
+section.pro {
+
+
+    background-size: 50%;
+    background-repeat: no-repeat;
+
+
+}
+
+section.experiencia {
+    margin-left: 0%;
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+
+header.banner {
+
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 10%;
+    padding-top: 10%;
+    background-position: 30%;
+
+}
+
+#bienvenida {
+    text-align: center;
+    color: #202f4d;
+}
+
+
+
+
+/*progress bar*/
+
+
+
+
+
+
+
+
+
+/*footer*/
+
+
+footer {
+    background-color: #202f4d;
+    text-align: center;
+    color: #e0ead7;
+    font-size: 10px;
+    padding-bottom: 0.5%;
+}
+
+/*dashboard*/
+
+i.fa-solid.fa-right-from-bracket:hover {
+    --bs-list-group-bg: transparent !important;
+    --bs-list-group-border-color: transparent !important;
+    --bs-list-group-color: #97fff3 !important;
+    color: #66b8ff;
+
+}
+
+.cambioimagen {
+    margin-left: 60%;
+    margin-bottom: 10%;
+    color: #e2af41;
+}
